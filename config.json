@@ -1,5 +1,7 @@
 {
   "TOKEN": "1270926748:AAHt7VA2WdjnUzSAtE1oBJyL1hrUkjIXiNk",
+  "DOWNLOAD_LOCATION" = "./DOWNLOADS",
+  "DOWNLOAD_" = "./DOWNLOADS",
   "AUTH": {
     "ENABLE": false,
     "PASSWORD": "TM_Adminz",
