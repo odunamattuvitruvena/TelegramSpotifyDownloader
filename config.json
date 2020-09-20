@@ -1,7 +1,7 @@
 {
   "TOKEN": "1270926748:AAHt7VA2WdjnUzSAtE1oBJyL1hrUkjIXiNk",
   "AUTH": {
-    "ENABLE": true,
+    "ENABLE": false,
     "PASSWORD": "TM_Adminz",
     "USERS": [960156861, 1004538768, 1054316613]
   }
